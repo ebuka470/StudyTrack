@@ -2,7 +2,7 @@
   "name": "StudyTrack — NECO + JAMB",
   "short_name": "StudyTrack",
   "description": "Offline-first NECO and JAMB study tracker",
-  "start_url": "./studytrack-neco-jamb.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
